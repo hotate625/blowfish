@@ -1,6 +1,3 @@
-global:
-  language: "🇹🇼"
-
 article:
   anchor_label: "定位點"
   date: "{{ .Date }}"
